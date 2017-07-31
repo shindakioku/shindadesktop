@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>qml/CustomBorder.qml</file>
+        <file>qml/user/Register.qml</file>
+        <file>qml/anime/Anime.qml</file>
+        <file>qml/anime/EachAnime.qml</file>
+        <file>qml/music/Music.qml</file>
+        <file>qml/players/SoundPlayer.qml</file>
+    </qresource>
+</RCC>
